@@ -1,3 +1,7 @@
-This is bugfree code.
+#include <iostream>
 
-This is a new feature that I added.
+int main(void)
+{
+    std::cout << "Hello, World" << std::endl;
+    return 0;
+}
